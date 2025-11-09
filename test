@@ -1,0 +1,49 @@
+123456789====================From Our System Logged 04:52:25.403 6HH SPRTECH_IN Q3 ====================
+
+Message type: = Data          Data type:    = Link          Pool Code:    = ...
+Race Number:  = -1            Source:       = PGA           Event Code:   = 6HH
+Checksum:     = 02730         Reason:       = Host          Time HH:MM:SS = 04:52:25
+Header   |DLPGA326HH.....h045225001402730|
+Data     |ITSP05.1801074|
+==================== To  Our System Logged 04:52:25.513 6HH SPRTECH_IN Q3 ====================
+
+Message type: = Acknowledge   Data type:    = Link          Pool Code:    = ...
+Race Number:  = -1            Source:       = GRX           Event Code:   = 6HH
+Checksum:     = 02767         Reason:       = Remote        Time HH:MM:SS = 04:52:24
+Header   |ALGRX326HH.....r045224001402767|
+Data     |ITSP05.1801074|
+====================From Our System Logged 04:52:25.513 6HH SPRTECH_IN Q3 ====================
+
+Message type: = Pending       Data type:    = Configuration Pool Code:    = ...
+Race Number:  = -1            Source:       = PGA           Event Code:   = 6HH
+Checksum:     = 02620         Reason:       = No Reason     Time HH:MM:SS = 04:52:25
+Header   |PCPGA346HH..... 045225000002620|
+==================== To  Our System Logged 04:52:25.622 6HH SPRTECH_IN Q3 ====================
+
+Message type: = Request       Data type:    = Configuration Pool Code:    = ...
+Race Number:  = -1            Source:       = GRX           Event Code:   = 6HH
+Checksum:     = 02653         Reason:       = No Reason     Time HH:MM:SS = 04:52:25
+Header   |RCGRX346HH..... 045225000002653|
+====================From Our System Logged 04:52:25.622 6HH SPRTECH_IN Q3 ====================
+
+Message type: = Data          Data type:    = Configuration Pool Code:    = ...
+Race Number:  = -1            Source:       = PGA           Event Code:   = 6HH
+Checksum:     = 02622         Reason:       = No Reason     Time HH:MM:SS = 04:52:25
+Header   |DCPGA346HH..... 045225007702622|
+Data     |HS02052017000000000000001201020304050607080910111201P06aEFFNNAAFPaAa1S|
+         |aR10031|
+
+Mode = Host, Calculation = Standard Pricing, 2/5/2017 00:00:00, Performance Nr = 0
+Close Bet Delay = 0, Close Cancel Delay = 0, Races = 1,2,3,4,5,6,7,8,9,10,11,12,  Pools = 1
+
+Pool Xchg Price  Scan       Allow Snd Rcv Snd Rcv Snd Rcv Xfr Pool      Min
+Code Part Method Mode       Order  Gross    Net    Total  WPY Unit      Pay   Break  Commissions
+
+P06  a           P-N Early        F   F   N   N   A   A   F   0.01      1.00  0.10    31.0000000(R), 
+
+==================== To  Our System Logged 04:52:25.747 6HH SPRTECH_IN Q3 ====================
+
+Message type: = Acknowledge   Data type:    = Configuration Pool Code:    = ...
+Race Number:  = -1            Source:       = GRX           Event Code:   = 6HH
+Checksum:     = 02632         Reason:       = No Reason     Time HH:MM:SS = 04:52:25
+Header   |ACGRX346HH..... 045225000002632|

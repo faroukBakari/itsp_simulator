@@ -1,0 +1,41 @@
+# Build outputs
+*.exe
+*.o
+*.d
+*.out
+*.obj
+
+# Debug directory contents
+Debug/*.exe
+Debug/source/*.o
+Debug/source/*.d
+
+# Log files
+*.log
+log.txt
+frames.log
+sequences.log
+res_seq_clustering.log
+log/
+
+# IDE and editor files
+.project
+.cproject
+.settings/
+.vscode/
+*.swp
+*.swo
+*~
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+
+# Core dumps
+core
+core.*
+itsp_simulator
